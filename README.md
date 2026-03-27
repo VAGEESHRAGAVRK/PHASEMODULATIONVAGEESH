@@ -63,7 +63,8 @@ subplot(4,1,4);
 plot(t,epm);
 OUTPUT 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/e76930ca-0266-47da-8988-3d16dc297179" />
-<img width="1909" height="776" alt="image" src="https://github.com/user-attachments/assets/daf16adb-ed01-4eb9-8bb2-981b43e19a62" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e91458fb-e316-4dd1-9465-03b6e7d05ca0" />
+
 
 
  
